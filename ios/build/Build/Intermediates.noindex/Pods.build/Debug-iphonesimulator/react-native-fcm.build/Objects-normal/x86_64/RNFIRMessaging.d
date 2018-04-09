@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-fcm/ios/RNFIRMessaging.m \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Target\ Support\ Files/react-native-fcm/react-native-fcm-prefix.pch \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-fcm/ios/RNFIRMessaging.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FirebaseCore.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRAnalyticsConfiguration.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRApp.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRConfiguration.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRLoggerLevel.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIROptions.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging/FirebaseMessaging.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging/FIRMessaging.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTEventEmitter.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTConvert.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTAnimationType.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTLog.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/Pods/Headers/Public/React/React/RCTTextDecorationLineType.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h

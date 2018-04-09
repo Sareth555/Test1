@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/ReactNativePermissions.m \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/ReactNativePermissions.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sareth/Desktop/ConsumerApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPLocation.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/RCTConvert+RNPStatus.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPBluetooth.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPNotification.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPAudioVideo.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPEvent.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPPhoto.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPContacts.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPBackgroundRefresh.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPSpeechRecognition.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPMediaLibrary.h \
+  /Users/sareth/Desktop/ConsumerApp/node_modules/react-native-permissions/ios/Permissions/RNPMotion.h

@@ -1,0 +1,15 @@
+export const CHANGE_LOCALE = "CHANGE_LOCALE";
+export const UPDATE_PERSONAL_INFO = "UPDATE_PERSONAL_INFO";
+
+// CREATE PIN
+export const UPDATE_PIN = "UPDATE_PIN";
+export const UPDATE_PIN_INDEX = "UPDATE_PIN_INDEX";
+export const PIN_CLEAR_ALL = "PIN_CLEAR_ALL";
+export const PIN_CLEAR_ONE = "PIN_CLEAR_ONE";
+export const PIN_CREATE_FINISH = "PIN_FINISH";
+export const CONFIRM_PIN = "CONFIRM_PIN";
+export const PIN_MATCHED = "PIN_MATCHED";
+export const SWITCH_2_CONFIRM_PIN = "SWITCH_2_CONFIRM_PIN";
+
+// CREATE ACC
+export const UPDATE_TEXT = "UPDATE_TEXT";

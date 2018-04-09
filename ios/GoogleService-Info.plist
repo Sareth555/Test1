@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>732875655537-8ns61ae9aidma6m2lc0o643pb09e4j6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.732875655537-8ns61ae9aidma6m2lc0o643pb09e4j6n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjPcpO3DYk_jJorx_VcMRUxcSBHma2RHs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>732875655537</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>asia.clik.ConsumerApp</string>
+	<key>PROJECT_ID</key>
+	<string>consumer-push-notificati-a3e2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>consumer-push-notificati-a3e2f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:732875655537:ios:114c5962150c6133</string>
+	<key>DATABASE_URL</key>
+	<string>https://consumer-push-notificati-a3e2f.firebaseio.com</string>
+</dict>
+</plist>
